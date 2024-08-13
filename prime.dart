@@ -1,5 +1,4 @@
 bool isPrime(int number) {
-  int number = 25;
   if (number <= 1) {
     return false;
   }
