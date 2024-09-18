@@ -6,5 +6,5 @@ String middleChar(String word) {
 }
 
 void main() {
-  print(middleChar("Badushas")); // Output: "du"
+  print(middleChar("Badushas")); 
 }
